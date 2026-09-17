@@ -1,6 +1,6 @@
 # Qrius QA Automation Bootcamp
 
-My work from the 12-week Automation QA Engineer Bootcamp: Playwright with JavaScript and TypeScript.
+My work from the 12-week QA Automation Bootcamp: Playwright with JavaScript and TypeScript.
 
 ## Contents
 
